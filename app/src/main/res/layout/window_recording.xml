@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/big_window_layout"
+    android:layout_width="100dip"
+    android:layout_height="100dip"
+    android:background="@drawable/recording"
+    android:orientation="vertical">
+</LinearLayout>

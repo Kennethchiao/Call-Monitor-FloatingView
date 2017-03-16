@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\KC\\Documents\\AndroidProject\\RecoreMonitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_small.png",
+        "source": "C:\\Users\\KC\\Documents\\AndroidProject\\RecoreMonitor\\app\\src\\main\\res\\drawable-hdpi\\bg_small.png"
+    },
+    {
+        "merged": "C:\\Users\\KC\\Documents\\AndroidProject\\RecoreMonitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_big.png",
+        "source": "C:\\Users\\KC\\Documents\\AndroidProject\\RecoreMonitor\\app\\src\\main\\res\\drawable-hdpi\\bg_big.png"
+    },
+    {
+        "merged": "C:\\Users\\KC\\Documents\\AndroidProject\\RecoreMonitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\KC\\Documents\\AndroidProject\\RecoreMonitor\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\KC\\Documents\\AndroidProject\\RecoreMonitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\recording.png",
+        "source": "C:\\Users\\KC\\Documents\\AndroidProject\\RecoreMonitor\\app\\src\\main\\res\\drawable-hdpi\\recording.png"
+    },
+    {
+        "merged": "C:\\Users\\KC\\Documents\\AndroidProject\\RecoreMonitor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\record.png",
+        "source": "C:\\Users\\KC\\Documents\\AndroidProject\\RecoreMonitor\\app\\src\\main\\res\\drawable-hdpi\\record.png"
+    }
+]
